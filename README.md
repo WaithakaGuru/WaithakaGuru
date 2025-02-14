@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student currently delvi
 
 ## 🌟 What I Do:
 - **Web Development:** Crafting elegant and efficient web solutions using cutting-edge technologies.
+- **Web Design:** Using Figma to create wireframes and mockUp for easier development.
 - **Mobile App:** Contributing to and maintaining open-source projects that fuel innovation and collaboration.
 - **Algorithm Devt and Analysis:** The design analysing and creating best algorithms with the best complexities and runtime.
 
