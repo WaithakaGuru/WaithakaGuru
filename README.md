@@ -1,11 +1,10 @@
 #                                  😎WAITHAKA GURU
 # 👋 Hello, I'm Waithaka Amos!
 
-Welcome to my GitHub profile! I'm a passionate Software Engineering student currently delving into the exciting realms of web development, cybersecurity, and Mobile App development. My journey is driven by a love for solving complex problems and creating impactful solutions.
+Welcome to my GitHub profile! I'm a Software Engineering student currently delving in web development, Artificial Intelligence, and Mobile App development. My journey is driven by a love for solving complex problems and creating impactful solutions.
 
 ## 🌟 What I Do:
 - **Web Development:** Crafting elegant and efficient web solutions using cutting-edge technologies.
-- **Cybersecurity:** Exploring the intricacies of security best practices to keep systems safe.
 - **Mobile App:** Contributing to and maintaining open-source projects that fuel innovation and collaboration.
 - **Algorithm Devt and Analysis:** The design analysing and creating best algorithms with the best complexities and runtime.
 
@@ -13,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student curr
 - **Wofis Tech:** Leading a tech business focused on delivering innovative solutions and fostering a community of developers.
 - **Tech Club:** Building a vibrant community of tech enthusiasts and developers to share knowledge and collaborate on exciting projects.
 
-## 💻 Technologies I Love:
+## 💻 My Toolbox:
 - **Languages:** JavaScript, Python, Cpp, Html, CSS, SQL, PHP and more.
 - **Tools:** Node.js, npm, React and various web development frameworks.
 - **Platforms:** GitHub, VS Code, and others.
