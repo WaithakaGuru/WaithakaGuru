@@ -3,7 +3,8 @@
 
 + ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-black?style=for-the-badge)
 + ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-black?style=for-the-badge) 
-+ ![Web Development](https://img.shields.io/badge/Web_Dev-Full_Stack-blue?style=for-the-badge) 
++ ![Web Development](https://img.shields.io/badge/Web_Dev-Full_Stack-blue?style=for-the-badge)
+  ### Reach me via: waithakaoffices@gmail.com
 
 ## 🌟 What I Do:-
   + ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) - Build and train __NEURAL NETWORKS__ using TensorFlow and **NumPy**
