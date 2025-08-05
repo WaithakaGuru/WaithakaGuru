@@ -12,31 +12,29 @@
     <div style="border: 2px solid #f9f9f9; border-radius: 1rem;  padding:  .5rem">
         <img src="https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-black?style=for-the-badge" alt="Neural Networks" />
         <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-black?style=for-the-badge" alt="AI" />
-        <p> * Building and training <strong>Neural Networks</strong> using <strong>TensorFlow</strong> and <strong>NumPy</strong> for deep learning and model experimentation.</p>
+<!--         <p> * Building and training <strong>Neural Networks</strong> using <strong>TensorFlow</strong> and <strong>NumPy</strong> for deep learning and model experimentation.</p> -->
     </div>
     <div style="
         border: 2px solid #f9f9f9; border-radius: 1rem; padding: .5rem; margin: .25rem 0
     ">
         <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-4D96FF?style=for-the-badge" alt="Web Development Badge" />  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
-        <p style="">
-        * Developing <strong>responsive full-stack applications</strong> using <strong>ReactJS</strong>, <strong>Tailwind CSS</strong>, and backend APIs for modern user experiences. While implementing <strong>Figma</strong>  wireframes, mockups, and UI flows</p>
+<!--         <p style="">
+        * Developing <strong>responsive full-stack applications</strong> using <strong>ReactJS</strong>, <strong>Tailwind CSS</strong>, and backend APIs for modern user experiences. While implementing <strong>Figma</strong>  wireframes, mockups, and UI flows</p> -->
     </div>
     <div style="border: 2px solid #f9f9f9; border-radius: 1rem; padding: .5rem">
         <img src="https://img.shields.io/badge/Algorithms-Data_Structures-blue?style=for-the-badge" alt="Algorithms Badge" />
-        <p style="margin-top: 6px;">⚙️ Creating <strong>optimized algorithms</strong> and <strong>custom data structures</strong> to solve complex programming challenges.</p>
-    </div>
+<!--         <p style="margin-top: 6px;">⚙️ Creating <strong>optimized algorithms</strong> and <strong>custom data structures</strong> to solve complex programming challenges.</p>-->
+    </div> 
 </div>
 
 ## Github Stats: 
 
 <div style="display: flex;" >
-    <div style="display: flex; flex-direction: column">
         <p style="margin-top: .5rem"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waithakaguru&show_icons=true&locale=en&layout=compact" alt="waithakaguru" />
         </p>
-        <span align="left"> <a href="https://twitter.com/awaguru1" target="blank"><img src="https://img.shields.io/twitter/follow/awaguru1?logo=twitter&style=for-the-badge" alt="awaguru1" /></a> </span>
-    </div>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waithakaguru&show_icons=true&locale=en" alt="waithakaguru" /></p>
 </div>
+<span align="left"> <a href="https://twitter.com/awaguru1" target="blank"><img src="https://img.shields.io/twitter/follow/awaguru1?logo=twitter&style=for-the-badge" alt="awaguru1" /></a> </span>
 
 ---
 
